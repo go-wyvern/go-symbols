@@ -1,4 +1,4 @@
-module go-symbols
+module github.com/go-wyvern/go-symbols
 
 go 1.20
 
